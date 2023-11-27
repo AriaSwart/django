@@ -1,3 +1,4 @@
+"""This file will allow the pathing of the login pages"""
 from django.urls import path, include, re_path
 from . import views
 
